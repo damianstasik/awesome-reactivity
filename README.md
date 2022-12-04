@@ -9,3 +9,4 @@
 - [ArrowJS reactivity](https://www.arrow-js.com/)
 - [µsignal](https://github.com/WebReflection/usignal)
 - [Reactively](https://github.com/modderme123/reactively)
+- [Preact Signals](https://github.com/preactjs/signals)
