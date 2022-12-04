@@ -10,3 +10,5 @@
 - [µsignal](https://github.com/WebReflection/usignal)
 - [Reactively](https://github.com/modderme123/reactively)
 - [Preact Signals](https://github.com/preactjs/signals)
+- [Sinous reactivity](https://github.com/luwes/sinuous)
+- [hyperactiv](https://github.com/elbywan/hyperactiv)
