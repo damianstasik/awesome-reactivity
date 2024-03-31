@@ -12,3 +12,4 @@
 - [Preact Signals](https://github.com/preactjs/signals)
 - [Sinous reactivity](https://github.com/luwes/sinuous)
 - [hyperactiv](https://github.com/elbywan/hyperactiv)
+- [Flimsy](https://github.com/fabiospampinato/flimsy)
