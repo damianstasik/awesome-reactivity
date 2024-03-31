@@ -13,3 +13,4 @@
 - [Sinous reactivity](https://github.com/luwes/sinuous)
 - [hyperactiv](https://github.com/elbywan/hyperactiv)
 - [Flimsy](https://github.com/fabiospampinato/flimsy)
+- [Angular reactivity](https://github.com/angular/angular/tree/main/packages/core/primitives/signals)
